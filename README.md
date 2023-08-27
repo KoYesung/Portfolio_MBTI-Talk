@@ -3,9 +3,16 @@
 <h3> 💡아이디어 </h3>
 
 * 대화성향을 파악하여 MBTI의 T와 F에 맞추어 대화를 할 수 있는 인공지능 챗봇
- 
-<h3>📌 모델</h3>
 
+  
+<h3> 👩‍💻팀 인원 및 역할 </h3>
+
+* 총 인원 6명
+* 말뭉치 데이터 전처리 및 프론트 디자인, 대화성향 테스트 페이지 구현
+ 
+<h3>📌 사용 데이터셋 및 모델</h3>
+
+* [AI Hub 말뭉치 데이터셋](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=543)
   
 * [KoGPT2](https://github.com/SKT-AI/KoGPT2) 
 
