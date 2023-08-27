@@ -1,23 +1,26 @@
-# Project2_MBTI-Talk
-💡 MBTI의 T와 F 대화 챗봇
+<h1>Project 개요</h1>
 
-<img src="https://github.com/KoYesung/Project2_MBTI-Talk/assets/131944189/e43c4bb9-abe4-43b0-9cb7-98f30f09b927" style="width:200px; height: 200px;">
-
-📌 <b>모델</b>
-<ul>
-  <li>KoGPT2 - first commit version</li>
-  <li>GPT API - Update 예정</li>
-
-</ul>
+<h3> 💡아이디어 </h3>
+<p><b> MBTI의 T와 F 대화 챗봇</b></p>
 
 
+<h3>📌 모델</h3>
 
+  
+* [KoGPT2](https://github.com/SKT-AI/KoGPT2) 
+
+
+<h3>🪄 사용 방법</h3>
+
+* Local로 연결(main.py)
+* uvicorn
+
+<h3>📲사용 화면</h3>
+
+![mbti톡 (1)](https://github.com/KoYesung/Project2_MBTI-Talk/assets/131944189/242ec27c-5bb5-452d-875e-945a7862537e)
 <br>
-📲 <b>서버 연결</b>
+![슬라이드2](https://github.com/KoYesung/Project2_MBTI-Talk/assets/131944189/b2140ba1-c592-4193-bc40-90097173777d)
 <br>
-<ul>
-  <li>로컬로 연결</li>
-  <li>uvicorn main:app</li>
-</ul>
+![슬라이드3](https://github.com/KoYesung/Project2_MBTI-Talk/assets/131944189/5f934126-5526-4dfe-bd94-6b931d26b900)
 
 
