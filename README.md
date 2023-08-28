@@ -1,6 +1,4 @@
 
-📎 [Project 자세히 보기](]https://www.notion.so/MBTI-Talk-789214e81a814a0cba1117756ca37066?pvs=4)
-
 <h1>Project 개요</h1>
 
 <h3> 💡아이디어 </h3>
